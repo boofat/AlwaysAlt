@@ -1,0 +1,8 @@
+{
+  "Id": "AlwaysAlt",
+  "DisplayName": "AlwaysAlt",
+  "Author": "boofat",
+  "Version": "1.0.0",
+  "AssemblyName": "AlwaysAlt.dll",
+  "EntryMethod": "AlwaysAlt.AlwaysAlt.Load"
+}

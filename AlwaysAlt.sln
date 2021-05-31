@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlwaysAlt", "AlwaysAlt\AlwaysAlt.csproj", "{7EEF4591-DD84-482A-8B26-15EFA7365763}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{832B86AB-C2A9-46AD-9875-A6ADC4D68D33}"
+	ProjectSection(SolutionItems) = preProject
+		Solasta.user = Solasta.user
+		Solasta.user.example = Solasta.user.example
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EEF4591-DD84-482A-8B26-15EFA7365763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEF4591-DD84-482A-8B26-15EFA7365763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEF4591-DD84-482A-8B26-15EFA7365763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEF4591-DD84-482A-8B26-15EFA7365763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2EFF5A5-D66E-4297-96E8-EAD57A18327C}
+	EndGlobalSection
+EndGlobal

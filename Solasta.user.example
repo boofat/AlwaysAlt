@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Example file, copy to Solasta.user to take effect -->
+<Project>
+    <PropertyGroup>
+        <!--
+        Path to Solasta with installed Unity Mod Manager
+        It isn't magic, if you add references to other Unity libs or whatever you'll have to edit the .csproj and update the path
+        -->
+        <SolastaPath>C:\Games\Standalone\Solasta Crown of the Magister</SolastaPath>
+    </PropertyGroup>
+</Project>

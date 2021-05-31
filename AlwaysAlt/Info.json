@@ -4,5 +4,7 @@
   "Author": "boofat",
   "Version": "1.0.0",
   "AssemblyName": "AlwaysAlt.dll",
-  "EntryMethod": "AlwaysAlt.AlwaysAlt.Load"
+  "EntryMethod": "AlwaysAlt.AlwaysAlt.Load",
+  "HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/85",
+  "Repository": "https://raw.githubusercontent.com/boofat/AlwaysAlt/main/Repository.json"
 }
